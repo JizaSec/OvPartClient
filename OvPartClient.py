@@ -8,7 +8,6 @@ import string
 import secrets
 import pickle
 import time
-import pyarmor
 
 if "tmp" not in os.listdir(os.path.dirname(__file__)):
     os.system("mkdir tmp")
