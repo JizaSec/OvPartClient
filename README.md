@@ -1,7 +1,7 @@
 # OvPartClient
 ![ovpart](https://github.com/user-attachments/assets/d0d12343-2efe-493d-b6e7-ebbb4bd19f53)
 
-# What is ?
+# What is it ?
 
 OvPartClient is an application to develop them in order to facilitate the communication of files between them with the application your projects will be stored on a server with backups to be sure not to lose any data.
 
