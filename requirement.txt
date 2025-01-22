@@ -1,5 +1,4 @@
 pillow
-mysql-connector-python
 hashlib
 string
 secrets
@@ -7,3 +6,4 @@ json
 time
 shutil
 datetime
+pickle
